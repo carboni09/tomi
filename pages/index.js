@@ -10,7 +10,7 @@ export default function IndexPage() {
 
       <div className="hero">
         <h1 className="title">Couldn't find a better gift that's expressive of you and has tech written all over it.</h1>
-        <h1 className="subtitle  mt-8">Hope <a href="#" className="text-purple-600">oluwatomis.in</a> would be useful for your personal brand. <br /> Happy birthday.</h1>
+        <h1 className="subtitle  mt-8">Thought <a href="#" className="text-purple-600">oluwatomis.in</a> could be useful for your personal brand. <br /> Happy birthday.</h1>
         <p className="text-center mt-2"> - Caleb </p>
 
       </div>
