@@ -1,8 +1,12 @@
 import Nav from '../components/nav'
+import Head from 'next/head'
 
 export default function IndexPage() {
   return (
     <div className="container w-4/5 md:w-3/5 mx-auto">
+      <Head>
+        <title>Happy Birthday</title>
+      </Head>
 
       <div className="hero">
         <h1 className="title">Couldn't find a better gift that's expressive of you and has tech written all over it.</h1>
